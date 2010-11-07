@@ -1,5 +1,5 @@
 Name:		xwd
-Version:	1.0.3
+Version:	1.0.4
 Release:	%mkrel 1
 Summary:	Dump an image of an X window
 Group:		Development/X11
