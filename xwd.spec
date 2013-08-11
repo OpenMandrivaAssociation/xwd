@@ -8,6 +8,7 @@ License:	MIT
 
 BuildRequires: pkgconfig(x11) >= 1.0.0
 BuildRequires: pkgconfig(xmu) >= 1.0.0
+BuildRequires: pkgconfig(xkbfile)
 BuildRequires: x11-util-macros >= 1.0.1
 
 %description
